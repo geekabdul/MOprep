@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851494487188",
+    "project_id": "moprep-4afca",
+    "storage_bucket": "moprep-4afca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851494487188:android:677e87b617d2dbddc6a081",
+        "android_client_info": {
+          "package_name": "com.moprep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpclFUjfNh_sSjhlWnLay3u0U_w9y6lRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
